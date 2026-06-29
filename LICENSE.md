@@ -1,4 +1,4 @@
-# 
+# Professionnel AI Handwriting Recognition outils. Avec IA générative et détection d'objets — optimisé pour des performances maximales.
 
 
 
